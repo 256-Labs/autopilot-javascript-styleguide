@@ -1,4 +1,4 @@
-# AutoPilot JavaScript Style Guide() {
+# JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript&mdash;forked from the original by [Airbnb](https://github.com/Airbnb/javascript).*
 
